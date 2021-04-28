@@ -1,0 +1,8 @@
+*~
+\#*
+.\#*
+.DS_Store
+compiled/
+/doc/
+creds.rkt
+node-bot/.env

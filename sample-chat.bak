@@ -1,0 +1,9 @@
+#lang racket
+
+
+(provide test #%module-begin)
+  
+(define (test [s "Hello World"])
+  (displayln s))
+
+
